@@ -1,0 +1,5 @@
+total 3
+-rw-r--r-- 1 locmpham 197121  44 Nov 23 21:01 dir.txt
+-rw-r--r-- 1 locmpham 197121 170 Nov 23 21:02 dir1.txt
+-rw-r--r-- 1 locmpham 197121   0 Nov 24 19:04 dir2.txt
+-rw-r--r-- 1 locmpham 197121  61 Feb 18  2019 README.md
